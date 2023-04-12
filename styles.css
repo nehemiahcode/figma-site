@@ -155,6 +155,7 @@ header .dext_nav .button2, .div_button .button2 {
     /* background-color: lightslategrey; */
     display: flex;
     border: 1px solid gray;  
+    padding-bottom: 3rem;
 }
 .contents2 {
     width:100%;
