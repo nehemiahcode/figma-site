@@ -154,7 +154,7 @@ header .dext_nav .button2, .div_button .button2 {
     /* background-color: lightslategrey; */
     display: flex;
     border: 1px solid gray;  
-    padding-bottom: 0rem;
+    padding-bottom: 1rem;
 }
 .contents2 {
     width:100%;
@@ -303,7 +303,7 @@ footer button:hover {
         flex-direction: column;
     }
     .cards {
-        width:88%;
+        width:90%;
     }    
 }
 
@@ -356,7 +356,7 @@ footer button:hover {
     color:white;
 }
 .div_image {
-    padding: 3rem 0 0 1rem;
+    padding: 3rem 0 0 0.5rem;
 }
 .text_blocks h2 {
     font-size: 30px;
@@ -369,8 +369,11 @@ footer button:hover {
 
 }
 .text_blocks {
-    padding: 3rem 0.5rem 1rem 1rem;
+    padding: 3rem 0.5rem 0.5rem 0.5rem;
     color:white;
+}
+.texts {
+    font-size: 20px;
 }
 
 
@@ -413,7 +416,7 @@ footer button:hover {
 .how_it_work {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     height:auto;
-    padding: 1rem 0 0 0;
+    padding: 1rem 0 2rem 0;
     background-color: rgb(38, 32, 44);
 }
 .how_it_work h1 {
@@ -441,8 +444,6 @@ footer button:hover {
         background-color: white;
         display: block;
         height:100vh;
-        bottom:0;
-        top:0;
         z-index: 99999;
         width:70%;
         left:-1000px;
@@ -568,4 +569,6 @@ footer button:hover {
 
 
 }
+
+
 
