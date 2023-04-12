@@ -447,7 +447,7 @@ footer button:hover {
         display: block;
         height:100vh;
         z-index: 99999;
-        width:70%;
+        width:75%;
         left:-1000px;
         transition: all .4s ease-in-out;
         box-shadow: 0 2px 7px rgba(0,0,0,0.5);
