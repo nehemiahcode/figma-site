@@ -416,7 +416,7 @@ footer button:hover {
 .how_it_work {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     height:auto;
-    padding: 1rem 0 2rem 0;
+    padding: 1rem 0 0 0;
     background-color: rgb(38, 32, 44);
 }
 .how_it_work h1 {
